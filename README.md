@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3F3D9E&height=200&section=header&text=Pranav%20Sali&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
   
-  <h2>💻 Full Stack Java Developer | AI Enthusiast</h2>
+  <h2>💻 Full Stack Developer | AI Enthusiast</h2>
   
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Scalable+Full+Stack+Applications;Spring+Boot+%7C+AI+%26+ML;Always+Learning+New+Technologies&center=true&width=800&height=50&font=Fira%20Code&color=6C63FF&vCenter=true&size=22&pause=1000">
   
