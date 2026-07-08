@@ -276,28 +276,6 @@
 
 ---
 
-## 🚧 Currently Building
-
-### 💊 AI-Powered Medicine Availability & Alternative Finder System
-
-**Tech Stack:** Spring Boot • React.js • Python • Supabase • AI
-
-🔹 Search medicine availability in nearby pharmacies
-
-🔹 Real-time stock tracking and inventory management
-
-🔹 AI-powered medicine alternative recommendations
-
-🔹 Medicine price comparison across pharmacies
-
-🔹 Emergency medicine booking support
-
-🔹 Home delivery integration
-
-🔹 Location-based pharmacy discovery
-
----
-
 ## 🌱 Learning Journey
 
 ```text
