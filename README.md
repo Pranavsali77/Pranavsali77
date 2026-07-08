@@ -194,8 +194,7 @@
 
 ---
 
-### 💊 AI-Powered Medicine Availability & Alternative Finder System
-**Smart Healthcare Platform**
+### 💊MedFinder **
 
 `Spring Boot` `React.js` `Python` `Supabase` `AI`
 
@@ -209,8 +208,6 @@
 - 📍 Location-based pharmacy discovery
 
 💡 *An intelligent healthcare solution that helps users quickly find medicines, compare prices, discover alternatives, and access emergency healthcare services.*
-
-🚀 **Currently Under Development**
 
 ---
 
@@ -265,7 +262,6 @@
 
 | 🚀 Domain | 📚 Focus |
 |-----------|----------|
-| 💊 Healthcare AI | Medicine Availability & Alternative Finder System |
 | ⚙️ Backend Development | Spring Boot, REST APIs, Authentication, System Design |
 | 🎨 Frontend Development | React.js, Angular, Responsive UI Development |
 | 🤖 Artificial Intelligence | LLMs, Agentic AI, Prompt Engineering, Chatbot Development |
