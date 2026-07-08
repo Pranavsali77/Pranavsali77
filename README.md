@@ -1,324 +1,404 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3F3D9E&height=200&section=header&text=Pranav%20Sali&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-  
-  <h2>💻 Full Stack Developer | AI Enthusiast</h2>
-  
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Scalable+Full+Stack+Applications;Spring+Boot+%7C+AI+%26+ML;Always+Learning+New+Technologies&center=true&width=800&height=50&font=Fira%20Code&color=6C63FF&vCenter=true&size=22&pause=1000">
-  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
-## 🎯 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Pranav%20Sali&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-**👾 Who Am I?**
-> ## 👾 Who Am I?
+# 👋 Hi, I'm Pranav Sali
 
-> I'm a passionate Full Stack Java Developer and AI Enthusiast, focused on building scalable web applications using Spring Boot, React, and modern web technologies. I enjoy solving real-world problems through software development, exploring Artificial Intelligence, and continuously learning new technologies to create innovative solutions.
+### 💻 Full Stack Developer | 🤖 AI Enthusiast | 🚀 Problem Solver
 
-## 💻 My Mission
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Artificial+Intelligence+Enthusiast;Building+Real+World+Projects;Always+Learning+New+Technologies" />
 
-> To leverage my expertise in Full Stack Development and Artificial Intelligence to build innovative, scalable, and impactful solutions. I am committed to continuous learning, embracing emerging technologies, and creating software that solves real-world challenges.
+<p>
 
-## 👾 What Drives Me
-
-✨ Transforming complex ideas into clean, efficient, and maintainable code
-
-🚀 Building seamless and engaging user experiences from backend architecture to frontend design
-
-🧠 Solving challenging problems through creativity, logic, and innovation
-
-🌱 Continuously learning new technologies and improving my technical expertise
-
-🤝 Contributing to open-source projects and collaborating with the developer community
-
-🎯 Developing applications that create meaningful value for users and businesses
-
-## 📊 Developer Snapshot
-
-| Category | Details |
-|----------|---------|
-| 🎓 Education | Bachelor's in Computer Science |
-| 💻 Specialization | Full Stack Java Development & AI |
-| 🚀 Primary Stack | Spring Boot • React • Angular • MySQL • MongoDB |
-| 🌱 Currently Learning | Generative AI • LLMs • DevOps • Cloud Computing |
-| 🤝 Open To | Open Source Contributions • Collaborations • Hackathons |
-| 📧 Contact | pksali27@gmail.com |
-| 🎯 Career Goal | Building scalable applications and AI-powered solutions |
----
-
-## ✨ More About Me
-
-🔹 Aspiring Full Stack Developer & AI Engineer
-
-🔹 Passionate about building scalable web applications
-
-🔹 Exploring Generative AI, LLMs, and Agentic AI
-
-🔹 Strong interest in Spring Boot, React, Angular, and Cloud Technologies
-
-🔹 Believer in continuous learning and hands-on development
-
-🔹 Chess Enthusiast ♟️ and Technology Explorer 🚀
-
-> "Code with purpose, learn with curiosity, and build for impact."
----
-
-## 🚀 Let's Connect & Build Together
-
-| 💼 Available For Opportunities | 🤝 Open To Collaborate | 💡 Problem Solver |
-|-------------------------------|------------------------|------------------|
-| Full Stack Development | Open Source Projects | Real-World Solutions |
-| AI & ML Projects | Startup Ideas | Innovative Applications |
-
-<div align="center">
-
-![Passionate About Code](https://img.shields.io/badge/⭐-Passionate%20About%20Code-blueviolet?style=for-the-badge)
-![Always Learning](https://img.shields.io/badge/📚-Always%20Learning-blue?style=for-the-badge)
-![Always Building](https://img.shields.io/badge/🚀-Always%20Building-success?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/🤝-Open%20Source%20Enthusiast-orange?style=for-the-badge)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Developer Mindset
-
-*"Code with purpose, learn continuously, and build solutions that create impact."*
-
-</div>
----
-
-## 🌐 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pranav-sali-356998272/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30">
-  </a>
-  <a href="mailto:pksali27@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30">
-  </a>
-  <a href="https://leetcode.com/u/pranav_77/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&logoWidth=30">
-  </a>
-  <a href="https://instagram.com/pranav.sali77">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=30">
-  </a>
-  <a href="https://github.com/Pranavsali77">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=30">
-  </a>
-</p>
-
----
-
-## 🛠️ Tech Arsenal
-
-### 💾 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript" />
-</p>
-
-### 🎨 Frontend Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,html,css" />
-</p>
-
-### ⚙️ Backend Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
-</p>
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,supabase" />
-</p>
-
-### 🤖 AI & Machine Learning
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenAI%20API-74AA9C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Chatbot%20Development-FF4500?style=for-the-badge" />
-</p>
-
-### 🧰 Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
-### 🌍 Languages
-| Language | Proficiency |
-|-----------|------------|
-| 🇬🇧 English | Professional |
-| 🇮🇳 Hindi | Native |
-| 🇩🇪 German | Basic |---
-
-## 🚀 Featured Projects
-
-### 🛒 QuickMart – Online Marketplace
-
-**Tech Stack:** Spring Boot • React.js • MySQL • JWT Authentication • REST APIs
-
-📌 Features:
-- Secure User Authentication & Authorization
-- Product Management System
-- Responsive User Interface
-- RESTful API Integration
-- Full CRUD Operations
-
-💡 *A full-stack e-commerce platform designed to provide a seamless online shopping experience.*
-
----
-
-### 🤖 AI-Powered Business Automation Assistant
-
-**Tech Stack:** Streamlit • Python • OpenRouter API • SQLite
-
-📌 Features:
-- AI-Powered Chat Assistant
-- Lead Management System
-- Business Workflow Automation
-- Analytics Dashboard
-- Automated Response Generation
-
-💡 *An intelligent platform that automates business processes using modern AI technologies.*
-
----
-
-### 💊MedFinder
-
-`Spring Boot` `React.js`  `Supabase` `AI`
-
-📌 Features:
-- 🔍 Search medicine availability in nearby pharmacies
-- 📦 Real-time stock tracking and inventory updates
-- 💰 Medicine price comparison across pharmacies
-- 🤖 AI-powered medicine alternative recommendations
-- 🚨 Emergency medicine booking support
-- 🏠 Home delivery integration
-- 📍 Location-based pharmacy discovery
-
-💡 *An intelligent healthcare solution that helps users quickly find medicines, compare prices, discover alternatives, and access emergency healthcare services.*
-
----
-
-### 📊 Project Highlights
-
-| Project | Domain | Technologies |
-|----------|----------|--------------|
-| 🛒 QuickMart | E-Commerce | Spring Boot, React, MySQL |
-| 🤖 AI Business Assistant | Artificial Intelligence | Streamlit, OpenRouter, SQLite |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pranavsali77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavsali77&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Pranavsali77&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-
----
-
-
-## 🏆 Achievement Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pranavsali77&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranavsali77&theme=tokyo-night&hide_border=true&area=true"/>
-</div>
-
----
-
-## 🎯 Current Focus Areas
-
-<div align="center">
-
-| 🚀 Domain | 📚 Focus |
-|-----------|----------|
-| ⚙️ Backend Development | Spring Boot, REST APIs, Authentication, System Design |
-| 🎨 Frontend Development | React.js, Angular, Responsive UI Development |
-| 🤖 Artificial Intelligence | LLMs, Agentic AI, Prompt Engineering, Chatbot Development |
-| 🗄️ Database Systems | MySQL, Supabase |
-| ☁️ DevOps & Deployment | Git, Docker, CI/CD, Vercel |
-
-</div>
-
----
-
-## 🌱 Learning Journey
-
-```text
-☕ Java & Spring Boot      ████████████████ 95%
-⚛️ React.js               ███████████████  90%
-🅰️ Angular                ██████████████   85%
-🤖 Artificial Intelligence ██████████████   85%
-🧠 Machine Learning       █████████████    80%
-🚀 LLMs & Agentic AI      ████████████     75%
-🐳 DevOps                 ██████████       70%
-☁️ Cloud Computing        ████████         60%
-```
-
----
-
-## 💭 Developer Quote
-
-<div align="center">
-
-> **"Code is like humor. When you have to explain it, it's bad."**  
-> — *Cory House*
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
+<a href="https://github.com/Pranavsali77">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <a href="https://www.linkedin.com/in/pranav-sali-356998272/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:pksali27@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Pranavsali77&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+I'm a passionate **Full Stack  Developer** with a strong interest in **Artificial Intelligence**, **Machine Learning**, and **Modern Web Development**.
+
+I enjoy building scalable applications that solve real-world problems using modern technologies.
+
+### 🌟 Highlights
+
+- 💻 Full Stack Developer
+- 🤖 AI & Machine Learning Enthusiast
+- 🌱 Learning LLMs & Agentic AI
+- ⚡ Spring Boot & React Developer
+- 🚀 Love building scalable applications
+- 📚 Continuous Learner
+- 💡 Problem Solver
+- 🎯 Open to Internship & Full-Time Opportunities
+
+---
+
+# 👨‍💻 Developer Snapshot
+
+| 💼 Category | 📌 Details |
+|-------------|------------|
+| 🎓 Degree | B.Tech Computer Science |
+| 💻 Role | Full Stack Developer |
+| 🤖 Interests | Artificial Intelligence |
+| 🌱 Learning | LLMs • DevOps • Cloud |
+| ❤️ Favorite Backend | Spring Boot |
+| ⚛ Favorite Frontend | React.js |
+| 🗄 Database | MySQL • MongoDB • Supabase |
+| 🚀 Goal | Build impactful software |
+
+---
+
+# 🛠 Tech Stack
+
+## 💻 Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+</p>
+
+---
+
+## 🎨 Frontend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=angular"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+
+</p>
+
+---
+
+## ⚙ Backend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=spring"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+<img src="https://skillicons.dev/icons?i=hibernate"/>
+
+</p>
+
+---
+
+## 🗄 Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=supabase"/>
+
+<img src="https://skillicons.dev/icons?i=sqlite"/>
+
+</p>
+
+---
+
+## 🤖 Artificial Intelligence
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Prompt%20Engineering-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenAI_API-10A37F?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🧰 Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+<img src="https://skillicons.dev/icons?i=vercel"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- 🤖 Large Language Models (LLMs)
+
+- 🧠 Agentic AI
+
+- ☁ Cloud Computing
+
+- 📐 System Design
+
+- ⚙ Microservices
+
+---
+
+# 🚀 Featured Projects
+
+---
+
+## 💊 MedFinder – AI-Powered Medicine Availability & Alternative Recommendation System
+
+<img align="right" width="330" src="https://cdn-icons-png.flaticon.com/512/4320/4320371.png"/>
+
+### 📖 Overview
+
+MedFinder is an intelligent healthcare platform that helps users locate nearby pharmacies with real-time medicine availability while providing AI-powered medicine alternatives and price comparisons.
+
+### ✨ Key Features
+
+- 🔍 Smart Medicine Search
+- 📍 Nearby Pharmacy Discovery
+- 📦 Live Inventory Tracking
+- 🤖 AI-powered Alternative Medicines
+- 💰 Price Comparison
+- 🚨 Emergency Medicine Booking
+- 📄 Prescription Upload
+- 👨‍⚕️ Pharmacy Dashboard
+- 📊 Inventory Management
+
+### 🛠 Tech Stack
+
+`Spring Boot`
+`React`
+`Supabase`
+`REST API`
+`AI`
+`JWT`
+
+---
+
+## 🛒 QuickMart – E-Commerce Platform
+
+<img align="right" width="320" src="https://cdn-icons-png.flaticon.com/512/3081/3081559.png"/>
+
+### 📖 Overview
+
+QuickMart is a modern e-commerce application developed using Spring Boot and React with secure authentication, product management, and REST API integration.
+
+### ✨ Features
+
+- User Authentication
+- JWT Security
+- Product Management
+- Shopping Cart
+- Admin Dashboard
+- REST APIs
+- Responsive UI
+- CRUD Operations
+
+### 🛠 Tech Stack
+
+`Spring Boot`
+`React`
+`MySQL`
+`JWT`
+`REST API`
+
+---
+
+## 🤖 AI-Powered Business Automation Assistant
+
+<img align="right" width="300" src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png"/>
+
+### 📖 Overview
+
+An intelligent automation platform that streamlines business workflows using AI.
+
+### ✨ Features
+
+- AI Chat Assistant
+- Lead Management
+- Workflow Automation
+- Analytics Dashboard
+- AI Response Generation
+- SQLite Database
+- Admin Panel
+
+### 🛠 Tech Stack
+
+`Python`
+`Streamlit`
+`SQLite`
+`OpenRouter API`
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pranavsali77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavsali77&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Pranavsali77&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranavsali77&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Pranavsali77&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 🏅 Achievements
+
+🏆 Built multiple Full Stack applications
+
+🏆 Developed AI-powered healthcare solutions
+
+🏆 Hands-on experience with Spring Boot & React
+
+🏆 Passionate about Artificial Intelligence
+
+🏆 Strong knowledge of REST APIs
+
+🏆 Continuous learner of emerging technologies
+
+🏆 Problem-solving mindset
+
+🏆 Open Source Enthusiast
+
+---
+
+# 🎯 Current Goals
+
+✅ Master Spring Boot Microservices
+
+✅ Build production-ready AI applications
+
+✅ Learn Kubernetes & Docker
+
+✅ Explore Generative AI & Agentic AI
+
+✅ Contribute to Open Source
+
+✅ Crack top Software Engineering roles
+
+---
+
+# 💼 Open To
+
+- 💻 Software Engineer Internships
+- 🤖 AI Engineer Roles
+- 🌐 Full Stack Developer Roles
+- 🚀 Startup Collaborations
+- 👨‍💻 Freelance Projects
+- 🌟 Open Source Contributions
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:pksali27@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pranav-sali-356998272/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Pranavsali77">
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/pranav_77/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 </div>
 
 ---
 
-## 👀 Profile Visitors
+# 💡 Developer Philosophy
+
+> **"Building software isn't just about writing code—it's about solving real-world problems, creating value, and continuously improving through learning and innovation."**
+
+---
+
+# 👀 Profile Visitors
 
 <div align="center">
 
@@ -328,12 +408,126 @@
 
 ---
 
+# ⭐ Support My Work
+
+If you like my projects, consider giving them a ⭐ on GitHub.
+
+---
+
+# 🐍 Contribution Snake
+
 <div align="center">
 
-### ⭐ Thanks for visiting my profile! ⭐
-
-*Building scalable applications, exploring AI, and creating impactful solutions.*
+![Snake animation](https://github.com/Pranavsali77/Pranavsali77/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3F3D9E&height=120&section=footer" width="100%"/>
+> **Enable with GitHub Actions:**  
+> https://github.com/Platane/snk
+
+---
+
+# ⏱ Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+
+```text
+Java            12 hrs 35 mins   ███████████░░░░░   45%
+Spring Boot      8 hrs 12 mins   ████████░░░░░░░   29%
+React            4 hrs 48 mins   ████░░░░░░░░░░░   17%
+SQL              1 hr 43 mins    ██░░░░░░░░░░░░░    6%
+Other            0 hr 48 mins    ░░░░░░░░░░░░░░░    3%
+```
+
+<!--END_SECTION:waka-->
+
+---
+
+# 🎵 Currently Listening
+
+<div align="center">
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false)](https://spotify-github-profile.vercel.app)
+
+</div>
+
+---
+
+# 🚀 Coding Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranavsali77&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📈 Productivity Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranavsali77&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pranavsali77&theme=tokyonight"/>
+
+</div>
+
+---
+
+# ⚡ GitHub Summary Cards
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pranavsali77&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pranavsali77&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
+
+# 💬 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+# ☕ Support My Work
+
+If you enjoy my projects and find them useful, consider giving them a ⭐.
+
+It motivates me to build more open-source projects and contribute to the developer community.
+
+---
+
+# 💡 Fun Fact
+
+```text
+while(alive){
+    eat();
+    code();
+    learn();
+    build();
+    repeat();
+}
+```
+
+---
+
+# ❤️ Thank You
+
+<div align="center">
+
+## Thanks for visiting my profile!
+
+### ⭐ If you like my work, don't forget to follow me on GitHub.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+
+</div>
