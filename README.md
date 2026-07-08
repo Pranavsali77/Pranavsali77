@@ -194,9 +194,9 @@
 
 ---
 
-### 💊MedFinder **
+### 💊MedFinder
 
-`Spring Boot` `React.js` `Python` `Supabase` `AI`
+`Spring Boot` `React.js`  `Supabase` `AI`
 
 📌 Features:
 - 🔍 Search medicine availability in nearby pharmacies
